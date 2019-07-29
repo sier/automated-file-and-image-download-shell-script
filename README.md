@@ -14,6 +14,7 @@ git clone https://github.com/sier/automated-file-and-image-download-shell-script
 ## Usage
 
 ```bash
+cd /automated-file-and-image-download-shell-script
 ./script.sh downloads.txt
 ```
 
