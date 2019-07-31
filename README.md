@@ -1,4 +1,5 @@
 # Automated-file-and-image-download-shell-script
+![License-MIT](https://img.shields.io/badge/license-MIT-04918a)
 
 Automated file and image download shell script is a simple script that uses curl to download all images/files from a text-file list, separated by new lines.
 
